@@ -1,0 +1,7 @@
+__pycache__/
+.env
+cooking_app.db
+*.pyc
+
+flutter/
+sizzle_app/
