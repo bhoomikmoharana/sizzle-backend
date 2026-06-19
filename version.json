@@ -1,6 +1,6 @@
 {
-  "latest_version": "9.9.9",
-  "apk_url": "https://google.com",
+  "latest_version": "1.0.0",
+  "apk_url": "https://github.com/bhoomikmoharana/sizzle-backend/releases/download/v1.0.0/Sizzle.v1.0.0.apk",
   "force_update": false,
-  "message": "This is a test update popup."
+  "message": "You're on the latest version."
 }
